@@ -1,4 +1,4 @@
-# Project Name
+# HobbyHub: A Local Hobby Group Organizer
 
 ## 📌 Overview
 A short description about the project and its purpose.
